@@ -1,4 +1,5 @@
 .team {
+  background-color: #f4f4fd;
 }
 .team-title {
   font-size: 36px;
@@ -11,6 +12,7 @@
 .team-list {
 }
 .team-item {
+  background-color: #ffffff;
 }
 .team-img {
 }

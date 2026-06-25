@@ -7,7 +7,6 @@
   line-height: 1.33333;
   letter-spacing: 0.03em;
   color: #2e2f42;
-  text-decoration: none;
   text-transform: uppercase;
 }
 .header-logo .accent {
@@ -21,7 +20,6 @@
 .nav-item {
 }
 .nav-link {
-  text-decoration: none;
   font-weight: 500;
   font-size: 16px;
 
